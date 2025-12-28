@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Shout",
+  "base_artist": "androp",
+  "createdAt": "2025-12-28T13:32:27.446391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Down at the Twist and Shout",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/01_Down_at_the_Twist_and_Shout_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Down At The Twist And Shout (Album Version)",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/02_Down_At_The_Twist_And_Shout_(Album_Version)_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Down at the Twist and Shout",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/03_Down_at_the_Twist_and_Shout_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twist and Shout",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/04_Twist_and_Shout_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Time To Scream And Shout",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/05_Time_To_Scream_And_Shout_múm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shout It Out Loud",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Shout_It_Out_Loud_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shout It",
+      "artist": "Southern",
+      "has_synced": true,
+      "path": "select/07_Shout_It_Southern.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shout Shout",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/08_Shout_Shout_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shout Shout",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/09_Shout_Shout_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twist And Shout",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/10_Twist_And_Shout_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twist and Shout",
+      "artist": "Deacon Blue",
+      "has_synced": true,
+      "path": "select/11_Twist_and_Shout_Deacon_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scream & Shout",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/12_Scream_&_Shout_Kate_Ryan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shout",
+      "artist": "Groove Coverage",
+      "has_synced": false,
+      "path": "select/13_Shout_Groove_Coverage.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shout",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/14_Shout_Haddaway.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shout",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/pl_01_Shout_androp.txt"
+    }
+  ]
+}
